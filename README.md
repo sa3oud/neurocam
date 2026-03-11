@@ -1,2 +1,2 @@
-# NeuroCam 🌀🍄
-Psychedelic camera app: shoot reality, pick your molecule, re-trip anytime.
+
+ camera app: shoot reality, pick your theme and explore a new vision
